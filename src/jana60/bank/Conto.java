@@ -1,5 +1,5 @@
 package jana60.bank;
 
-public class Bank {
+public class Conto {
 
 }
